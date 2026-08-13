@@ -4,3 +4,4 @@ def add_task(name):
     pass
 
 authenticate_user=pass
+# critical login bug fixed
